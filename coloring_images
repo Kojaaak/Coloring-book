@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "id": "1",
+      "name": "Butterfly",
+      "url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/butterfly.png",
+      "thumbnail": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/butterfly_thumb.png"
+    },
+    {
+      "id": "2",
+      "name": "Flower",
+      "url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/flower.png",
+      "thumbnail": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/flower_thumb.png"
+    },
+    {
+      "id": "3",
+      "name": "Mandala",
+      "url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/mandala.png",
+      "thumbnail": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/mandala_thumb.png"
+    }
+  ]
+}
