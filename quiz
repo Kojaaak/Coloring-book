@@ -169,6 +169,366 @@
         "31-60": "Great work!",
         "61-100": "You're an animal expert!"
       }
+    },
+    "space": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the closest planet to the Sun?",
+          "answers": [
+            {"text": "Mercury", "points": 10},
+            {"text": "Venus", "points": 0},
+            {"text": "Mars", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "How many planets are in our solar system?",
+          "answers": [
+            {"text": "8", "points": 10},
+            {"text": "9", "points": 5},
+            {"text": "7", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "What is the largest planet in our solar system?",
+          "answers": [
+            {"text": "Jupiter", "points": 10},
+            {"text": "Saturn", "points": 0},
+            {"text": "Neptune", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Keep exploring space!",
+        "31-60": "Nice space knowledge!",
+        "61-100": "You're a space expert!"
+      }
+    },
+    "nature": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the tallest tree species in the world?",
+          "answers": [
+            {"text": "Coast Redwood", "points": 10},
+            {"text": "Oak", "points": 0},
+            {"text": "Pine", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What is the largest ocean on Earth?",
+          "answers": [
+            {"text": "Pacific Ocean", "points": 10},
+            {"text": "Atlantic Ocean", "points": 0},
+            {"text": "Indian Ocean", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "What is photosynthesis?",
+          "answers": [
+            {"text": "Plants making food from sunlight", "points": 10},
+            {"text": "Plants drinking water", "points": 0},
+            {"text": "Plants growing taller", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Nature has more to teach you!",
+        "31-60": "You love nature!",
+        "61-100": "You're a nature expert!"
+      }
+    },
+    "art_history": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Who painted the Mona Lisa?",
+          "answers": [
+            {"text": "Leonardo da Vinci", "points": 10},
+            {"text": "Michelangelo", "points": 0},
+            {"text": "Picasso", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What art movement was Pablo Picasso associated with?",
+          "answers": [
+            {"text": "Cubism", "points": 10},
+            {"text": "Impressionism", "points": 0},
+            {"text": "Surrealism", "points": 5}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "Who painted 'The Starry Night'?",
+          "answers": [
+            {"text": "Vincent van Gogh", "points": 10},
+            {"text": "Claude Monet", "points": 0},
+            {"text": "Salvador Dali", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Art history awaits you!",
+        "31-60": "You appreciate art!",
+        "61-100": "You're an art historian!"
+      }
+    },
+    "music": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "How many strings does a standard guitar have?",
+          "answers": [
+            {"text": "6", "points": 10},
+            {"text": "4", "points": 0},
+            {"text": "8", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "Who composed the Four Seasons?",
+          "answers": [
+            {"text": "Antonio Vivaldi", "points": 10},
+            {"text": "Mozart", "points": 0},
+            {"text": "Beethoven", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "What is the highest female singing voice?",
+          "answers": [
+            {"text": "Soprano", "points": 10},
+            {"text": "Alto", "points": 0},
+            {"text": "Tenor", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Keep listening to music!",
+        "31-60": "You're musically inclined!",
+        "61-100": "You're a music maestro!"
+      }
+    },
+    "geography": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the capital of France?",
+          "answers": [
+            {"text": "Paris", "points": 10},
+            {"text": "London", "points": 0},
+            {"text": "Berlin", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "Which continent is the largest?",
+          "answers": [
+            {"text": "Asia", "points": 10},
+            {"text": "Africa", "points": 0},
+            {"text": "Europe", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "What is the longest river in the world?",
+          "answers": [
+            {"text": "Nile", "points": 10},
+            {"text": "Amazon", "points": 8},
+            {"text": "Mississippi", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Explore more of the world!",
+        "31-60": "You're a good traveler!",
+        "61-100": "You're a geography expert!"
+      }
+    },
+    "movies": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Who directed 'Jurassic Park'?",
+          "answers": [
+            {"text": "Steven Spielberg", "points": 10},
+            {"text": "James Cameron", "points": 0},
+            {"text": "George Lucas", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What year was the first 'Toy Story' released?",
+          "answers": [
+            {"text": "1995", "points": 10},
+            {"text": "1990", "points": 0},
+            {"text": "2000", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "Which movie won Best Picture at the 2020 Oscars?",
+          "answers": [
+            {"text": "Parasite", "points": 10},
+            {"text": "1917", "points": 0},
+            {"text": "Joker", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Watch more movies!",
+        "31-60": "You love cinema!",
+        "61-100": "You're a movie buff!"
+      }
+    },
+    "science": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the chemical symbol for water?",
+          "answers": [
+            {"text": "H2O", "points": 10},
+            {"text": "CO2", "points": 0},
+            {"text": "O2", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What is the speed of light?",
+          "answers": [
+            {"text": "299,792 km/s", "points": 10},
+            {"text": "150,000 km/s", "points": 0},
+            {"text": "500,000 km/s", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "What is the powerhouse of the cell?",
+          "answers": [
+            {"text": "Mitochondria", "points": 10},
+            {"text": "Nucleus", "points": 0},
+            {"text": "Ribosome", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Science is waiting for you!",
+        "31-60": "You're scientifically minded!",
+        "61-100": "You're a science genius!"
+      }
+    },
+    "food": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What country is sushi from?",
+          "answers": [
+            {"text": "Japan", "points": 10},
+            {"text": "China", "points": 0},
+            {"text": "Korea", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What is the main ingredient in guacamole?",
+          "answers": [
+            {"text": "Avocado", "points": 10},
+            {"text": "Tomato", "points": 0},
+            {"text": "Pepper", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "What type of pasta is shaped like little tubes?",
+          "answers": [
+            {"text": "Penne", "points": 10},
+            {"text": "Spaghetti", "points": 0},
+            {"text": "Fettuccine", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Time to explore more cuisines!",
+        "31-60": "You're a foodie!",
+        "61-100": "You're a culinary expert!"
+      }
+    },
+    "sports": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "How many players are on a soccer team?",
+          "answers": [
+            {"text": "11", "points": 10},
+            {"text": "9", "points": 0},
+            {"text": "13", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What sport is played at Wimbledon?",
+          "answers": [
+            {"text": "Tennis", "points": 10},
+            {"text": "Golf", "points": 0},
+            {"text": "Cricket", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "How many points is a touchdown in American football?",
+          "answers": [
+            {"text": "6", "points": 10},
+            {"text": "7", "points": 5},
+            {"text": "3", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Get into sports!",
+        "31-60": "You're a sports fan!",
+        "61-100": "You're a sports champion!"
+      }
+    },
+    "mythology": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Who is the king of the Greek gods?",
+          "answers": [
+            {"text": "Zeus", "points": 10},
+            {"text": "Poseidon", "points": 0},
+            {"text": "Hades", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What is Thor's hammer called in Norse mythology?",
+          "answers": [
+            {"text": "Mjolnir", "points": 10},
+            {"text": "Excalibur", "points": 0},
+            {"text": "Gungnir", "points": 5}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "Who was the Egyptian god of the dead?",
+          "answers": [
+            {"text": "Anubis", "points": 10},
+            {"text": "Ra", "points": 0},
+            {"text": "Osiris", "points": 8}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Mythology awaits you!",
+        "31-60": "You know your myths!",
+        "61-100": "You're a mythology expert!"
+      }
     }
   }
 }
