@@ -1,38 +1,174 @@
 {
-  "questions": [
+  "quiz_themes": [
     {
-      "id": "q1",
-      "question": "What's your favorite color?",
-      "answers": [
-        {"text": "Blue", "points": 10},
-        {"text": "Red", "points": 10},
-        {"text": "Green", "points": 10},
-        {"text": "Yellow", "points": 10}
-      ]
+      "id": "color_theory",
+      "title": "Color Theory Master",
+      "description": "Test your knowledge about colors, mixing, and color relationships!",
+      "icon": "🎨",
+      "difficulty": "Easy",
+      "quizUrl": ""
     },
     {
-      "id": "q2",
-      "question": "How do you feel about challenges?",
-      "answers": [
-        {"text": "I love them!", "points": 10},
-        {"text": "They're okay", "points": 7},
-        {"text": "I prefer easy tasks", "points": 5}
-      ]
+      "id": "animals",
+      "title": "Amazing Animals",
+      "description": "How well do you know the animal kingdom?",
+      "icon": "🦁",
+      "difficulty": "Easy",
+      "quizUrl": ""
     },
     {
-      "id": "q3",
-      "question": "What's your ideal weekend activity?",
-      "answers": [
-        {"text": "Reading a book", "points": 10},
-        {"text": "Outdoor adventure", "points": 10},
-        {"text": "Creating art", "points": 10},
-        {"text": "Relaxing at home", "points": 10}
-      ]
+      "id": "space",
+      "title": "Space Explorer",
+      "description": "Journey through the cosmos!",
+      "icon": "🚀",
+      "difficulty": "Medium",
+      "quizUrl": ""
+    },
+    {
+      "id": "nature",
+      "title": "Nature Wonders",
+      "description": "Explore the natural world!",
+      "icon": "🌿",
+      "difficulty": "Easy",
+      "quizUrl": ""
+    },
+    {
+      "id": "art_history",
+      "title": "Art History",
+      "description": "Famous artists and masterpieces!",
+      "icon": "🖼️",
+      "difficulty": "Hard",
+      "quizUrl": ""
+    },
+    {
+      "id": "music",
+      "title": "Music Maestro",
+      "description": "Instruments to composers!",
+      "icon": "🎵",
+      "difficulty": "Medium",
+      "quizUrl": ""
+    },
+    {
+      "id": "geography",
+      "title": "World Geography",
+      "description": "Travel the world!",
+      "icon": "🌍",
+      "difficulty": "Medium",
+      "quizUrl": ""
+    },
+    {
+      "id": "movies",
+      "title": "Movie Buff",
+      "description": "Test your film knowledge!",
+      "icon": "🎬",
+      "difficulty": "Easy",
+      "quizUrl": ""
+    },
+    {
+      "id": "science",
+      "title": "Science Genius",
+      "description": "Physics, chemistry, biology!",
+      "icon": "🔬",
+      "difficulty": "Hard",
+      "quizUrl": ""
+    },
+    {
+      "id": "food",
+      "title": "Foodie Challenge",
+      "description": "Culinary knowledge test!",
+      "icon": "🍕",
+      "difficulty": "Easy",
+      "quizUrl": ""
+    },
+    {
+      "id": "sports",
+      "title": "Sports Champion",
+      "description": "Are you a sports fan?",
+      "icon": "⚽",
+      "difficulty": "Medium",
+      "quizUrl": ""
+    },
+    {
+      "id": "mythology",
+      "title": "Myths & Legends",
+      "description": "Ancient tales and heroes!",
+      "icon": "⚡",
+      "difficulty": "Hard",
+      "quizUrl": ""
     }
   ],
-  "score_messages": {
-    "0-30": "Just getting started! Keep practicing!",
-    "31-60": "You're doing great! Nice work!",
-    "61-100": "Amazing performance! You're a star!"
+  "quizzes": {
+    "color_theory": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What are the primary colors?",
+          "answers": [
+            {"text": "Red, Yellow, Blue", "points": 10},
+            {"text": "Red, Green, Blue", "points": 5},
+            {"text": "Orange, Purple, Green", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "What color do you get when you mix blue and yellow?",
+          "answers": [
+            {"text": "Green", "points": 10},
+            {"text": "Purple", "points": 0},
+            {"text": "Orange", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "Which colors are considered warm colors?",
+          "answers": [
+            {"text": "Red, Orange, Yellow", "points": 10},
+            {"text": "Blue, Green, Purple", "points": 0},
+            {"text": "Black, White, Gray", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "Keep learning about colors!",
+        "31-60": "Good job! You know your colors!",
+        "61-100": "Amazing! You're a color expert!"
+      }
+    },
+    "animals": {
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the largest land animal?",
+          "answers": [
+            {"text": "African Elephant", "points": 10},
+            {"text": "Giraffe", "points": 0},
+            {"text": "Hippopotamus", "points": 0}
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "Which bird cannot fly?",
+          "answers": [
+            {"text": "Penguin", "points": 10},
+            {"text": "Eagle", "points": 0},
+            {"text": "Parrot", "points": 0}
+          ]
+        },
+        {
+          "id": "q3",
+          "question": "How many legs does a spider have?",
+          "answers": [
+            {"text": "8", "points": 10},
+            {"text": "6", "points": 0},
+            {"text": "10", "points": 0}
+          ]
+        }
+      ],
+      "score_messages": {
+        "0-30": "You're just starting!",
+        "31-60": "Great work!",
+        "61-100": "You're an animal expert!"
+      }
+    }
   }
 }
