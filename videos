@@ -1,0 +1,52 @@
+{
+  "videos": [
+    {
+      "id": "video_1",
+      "title": "How to Color Like a Pro",
+      "description": "Learn professional coloring techniques and tips!",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_2",
+      "title": "Amazing Art Tutorial",
+      "description": "Step by step art guide for beginners",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_3",
+      "title": "Color Theory Basics",
+      "description": "Understanding colors and combinations",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_4",
+      "title": "Fun Drawing Tips",
+      "description": "Easy drawing tips for everyone",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_5",
+      "title": "Creative Coloring Ideas",
+      "description": "Unlock your creativity with these ideas",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_6",
+      "title": "Relaxing Art Session",
+      "description": "Relax and create beautiful art",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_7",
+      "title": "Beginner's Guide to Painting",
+      "description": "Start your painting journey today!",
+      "youtube_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "video_8",
+      "title": "Advanced Coloring Techniques",
+      "description": "Take your skills to the next level",
+      "youtube_id": "dQw4w9WgXcQ"
+    }
+  ]
+}
