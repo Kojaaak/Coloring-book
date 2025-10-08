@@ -1,0 +1,206 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-08",
+  "characters": [
+    {
+      "id": "rumi",
+      "name": "RUMI",
+      "silhouetteUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/silhouettes/rumi.png",
+      "fullImageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/full/rumi.png",
+      "hint": "A Persian poet known for mystical verses",
+      "trivia": "Rumi was a 13th-century Persian poet, Islamic scholar, and Sufi mystic whose influence transcends borders and time.",
+      "category": "poet",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "What century did Rumi live in?",
+          "options": ["11th century", "13th century", "15th century", "17th century"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What type of poetry was Rumi famous for?",
+          "options": ["Epic poems", "Mystical Sufi poetry", "Satirical verse", "Love sonnets"],
+          "correctIndex": 1
+        },
+        {
+          "question": "In which language did Rumi write most of his poetry?",
+          "options": ["Arabic", "Turkish", "Persian", "Urdu"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What is the name of Rumi's most famous work?",
+          "options": ["The Divan", "Masnavi", "Gulistan", "Bustan"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "plato",
+      "name": "PLATO",
+      "silhouetteUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/silhouettes/plato.png",
+      "fullImageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/full/plato.png",
+      "hint": "Greek philosopher who founded the Academy in Athens",
+      "trivia": "Plato was an ancient Greek philosopher who founded the Academy. He was a student of Socrates and teacher of Aristotle.",
+      "category": "philosopher",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "Who was Plato's famous teacher?",
+          "options": ["Aristotle", "Pythagoras", "Socrates", "Heraclitus"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What did Plato found in Athens?",
+          "options": ["The Academy", "The Lyceum", "The Stoa", "The Library"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What famous allegory did Plato write?",
+          "options": ["The Ship", "The Cave", "The Ring", "The Chariot"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is Plato's most famous dialogue?",
+          "options": ["Symposium", "Phaedo", "The Republic", "Apology"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Who was Plato's most famous student?",
+          "options": ["Socrates", "Aristotle", "Pythagoras", "Diogenes"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "einstein",
+      "name": "EINSTEIN",
+      "silhouetteUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/silhouettes/einstein.png",
+      "fullImageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/full/einstein.png",
+      "hint": "German physicist famous for the theory of relativity",
+      "trivia": "Albert Einstein developed the theory of relativity and won the Nobel Prize in Physics in 1921.",
+      "category": "scientist",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "question": "What is Einstein's most famous equation?",
+          "options": ["E=mc²", "F=ma", "a²+b²=c²", "PV=nRT"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What theory is Einstein most famous for?",
+          "options": ["Evolution", "Relativity", "Quantum mechanics", "Gravity"],
+          "correctIndex": 1
+        },
+        {
+          "question": "In what year did Einstein win the Nobel Prize?",
+          "options": ["1905", "1915", "1921", "1945"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Where was Einstein born?",
+          "options": ["Switzerland", "USA", "Germany", "Austria"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What phenomenon did Einstein explain?",
+          "options": ["Black holes", "Photoelectric effect", "Time dilation", "Gravity waves"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What instrument did Einstein play?",
+          "options": ["Piano", "Violin", "Flute", "Guitar"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which university did Einstein work at?",
+          "options": ["Harvard", "MIT", "Princeton", "Stanford"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What did Einstein call his greatest blunder?",
+          "options": ["Relativity", "Cosmological constant", "Nobel speech", "Quantum theory"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "newton",
+      "name": "NEWTON",
+      "silhouetteUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/silhouettes/newton.png",
+      "fullImageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/full/newton.png",
+      "hint": "English mathematician who discovered gravity",
+      "trivia": "Sir Isaac Newton formulated the laws of motion and universal gravitation. He also co-invented calculus.",
+      "category": "scientist",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "question": "How many laws of motion did Newton formulate?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What fruit inspired Newton's gravity theory?",
+          "options": ["Orange", "Apple", "Pear", "Peach"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What mathematical field did Newton co-invent?",
+          "options": ["Algebra", "Geometry", "Calculus", "Trigonometry"],
+          "correctIndex": 2
+        },
+        {
+          "question": "What is Newton's most famous book?",
+          "options": ["Opticks", "Principia", "Elements", "De Motu"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which university did Newton attend?",
+          "options": ["Oxford", "Cambridge", "Edinburgh", "London"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What did Newton study about light?",
+          "options": ["Speed only", "Color spectrum", "Reflection only", "Refraction only"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "curie",
+      "name": "CURIE",
+      "silhouetteUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/silhouettes/curie.png",
+      "fullImageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/full/curie.png",
+      "hint": "First woman to win a Nobel Prize",
+      "trivia": "Marie Curie was the first woman to win a Nobel Prize and the only person to win in two different sciences.",
+      "category": "scientist",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "How many Nobel Prizes did Marie Curie win?",
+          "options": ["One", "Two", "Three", "Four"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which element did Curie discover?",
+          "options": ["Uranium", "Radium", "Plutonium", "Thorium"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Where was Marie Curie born?",
+          "options": ["France", "Poland", "Russia", "Germany"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What field did Curie research?",
+          "options": ["Genetics", "Radioactivity", "Astronomy", "Geology"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Who did Marie Curie work with?",
+          "options": ["Her brother", "Her husband Pierre", "Her father", "Alone"],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
+}
