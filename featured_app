@@ -1,0 +1,10 @@
+{
+  "featuredApp": {
+    "id": "1",
+    "name": "Amazing Game",
+    "description": "Download our new game!",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/xx/xx/xx/app-icon.png",
+    "appStoreUrl": "https://apps.apple.com/app/idXXXXXXXXX",
+    "isActive": true
+  }
+}
