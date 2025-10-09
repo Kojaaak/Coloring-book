@@ -1,0 +1,22 @@
+{
+  "shorts": [
+    {
+      "id": "1",
+      "videoId": "dQw4w9WgXcQ",
+      "title": "Epic Gaming Moment #1",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    },
+    {
+      "id": "2",
+      "videoId": "9bZkp7q19f0",
+      "title": "Pro Tips and Tricks",
+      "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg"
+    },
+    {
+      "id": "3",
+      "videoId": "jNQXAC9IVRw",
+      "title": "Awesome Gameplay",
+      "thumbnail": "https://img.youtube.com/vi/jNQXAC9IVRw/maxresdefault.jpg"
+    }
+  ]
+}
