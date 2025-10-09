@@ -4,25 +4,25 @@
       "id": "character_1",
       "name": "Luna",
       "description": "The creative dreamer",
-      "avatar_url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C3.png",
-      "quiz_background": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C3.png",
-      "result_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C3.png"
+      "avatar_url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_164441.png",
+      "quiz_background": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_164441.png",
+      "result_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_164441.png"
     },
     {
       "id": "character_2", 
       "name": "Max",
       "description": "The bold adventurer",
-      "avatar_url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C1.png",
-      "quiz_background": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C1.png",
-      "result_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C1.png"
+      "avatar_url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_164912.png",
+      "quiz_background": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_164912.png",
+      "result_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_164912.png"
     },
     {
       "id": "character_3",
       "name": "Zara",
       "description": "The wise thinker",
-      "avatar_url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C2.png",
-      "quiz_background": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C2.png",
-      "result_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C2.png"
+      "avatar_url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_165440.png",
+      "quiz_background": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_165440.png",
+      "result_image": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/Copilot_20250930_165440.png"
     }
   ]
 }
