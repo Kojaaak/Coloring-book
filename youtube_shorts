@@ -2,21 +2,39 @@
   "shorts": [
     {
       "id": "1",
-      "videoId": "dQw4w9WgXcQ",
-      "title": "Epic Gaming Moment #1",
-      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+      "videoId": "hXaBPNqJTzw",
+      "title": "Short Video #1",
+      "thumbnail": "https://img.youtube.com/vi/hXaBPNqJTzw/maxresdefault.jpg"
     },
     {
       "id": "2",
-      "videoId": "9bZkp7q19f0",
-      "title": "Pro Tips and Tricks",
-      "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg"
+      "videoId": "GuDKtjCle0I",
+      "title": "Short Video #2",
+      "thumbnail": "https://img.youtube.com/vi/GuDKtjCle0I/maxresdefault.jpg"
     },
     {
       "id": "3",
-      "videoId": "jNQXAC9IVRw",
-      "title": "Awesome Gameplay",
-      "thumbnail": "https://img.youtube.com/vi/jNQXAC9IVRw/maxresdefault.jpg"
+      "videoId": "3-VwlTqxH-0",
+      "title": "Short Video #3",
+      "thumbnail": "https://img.youtube.com/vi/3-VwlTqxH-0/maxresdefault.jpg"
+    },
+    {
+      "id": "4",
+      "videoId": "ITQicXpJj0c",
+      "title": "Short Video #4",
+      "thumbnail": "https://img.youtube.com/vi/ITQicXpJj0c/maxresdefault.jpg"
+    },
+    {
+      "id": "5",
+      "videoId": "EudT4q114Bs",
+      "title": "Short Video #5",
+      "thumbnail": "https://img.youtube.com/vi/EudT4q114Bs/maxresdefault.jpg"
+    },
+    {
+      "id": "6",
+      "videoId": "dhZEiOWY8yo",
+      "title": "Short Video #6",
+      "thumbnail": "https://img.youtube.com/vi/dhZEiOWY8yo/maxresdefault.jpg"
     }
   ]
 }
