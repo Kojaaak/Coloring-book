@@ -1,6 +1,6 @@
 {
   "showWaveHunter": true,
-  "showShorts": false,
-  "showColoringBook": false,
+  "showShorts": true,
+  "showColoringBook": true,
   "showFeaturedApp": false
 }
