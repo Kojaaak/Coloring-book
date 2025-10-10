@@ -2,19 +2,19 @@
   "images": [
     {
       "id": "1",
-      "name": "Butterfly",
+      "name": "SAJA",
       "url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C3.png",
       "thumbnail": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C3.png"
     },
     { 
       "id": "2",
-      "name": "Flower",
+      "name": "SAJA",
       "url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C1.png",
       "thumbnail": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C1.png"
     },
     {
       "id": "3",
-      "name": "Mandala",
+      "name": "RUMI",
       "url": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C2.png",
       "thumbnail": "https://raw.githubusercontent.com/Kojaaak/Coloring-Data-Images/refs/heads/main/C2.png"
     }
